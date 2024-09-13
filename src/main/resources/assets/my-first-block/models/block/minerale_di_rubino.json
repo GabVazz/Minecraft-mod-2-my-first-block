@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "my-first-block:block/minerale_di_rubino"
+  }
+}
